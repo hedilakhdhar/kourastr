@@ -1,2 +1,2 @@
 # kourastr
- daily koura tracker on react 
+ daily koura tracker on react
